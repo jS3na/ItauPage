@@ -18,7 +18,7 @@ const config: Config = {
         'second-gray': '#4E4B59',
         'gray-phone': '#F4F4F4',
         'txt-gray': '#7A7786',
-        'opacity-gray': 'rgba(100, 80, 57, 0.1)'
+        'opacity-gray': 'rgba(100, 80, 57, 0.5)'
       }
     },
   },

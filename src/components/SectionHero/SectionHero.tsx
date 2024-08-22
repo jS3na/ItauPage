@@ -30,9 +30,7 @@ export function SectionHero() {
 
                 </div>
 
-                <div className="mr-[-41px]">
                     <Image src={Woman} alt="Woman" />
-                </div>
 
             </Container>
         </section>
